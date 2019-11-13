@@ -1,6 +1,5 @@
-jestem ubogim programistą
-i co z tego
-lilia 3
-linia4
+Line1
+line2
+line3
 
 
